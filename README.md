@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @delpozochristian
-- 👀 I’m interested in Full Stack
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on AI
+- I am developer in VBA Access and Excel
 - 📫 How to reach me delpozo.christian@gmail.com
 
 <!---
